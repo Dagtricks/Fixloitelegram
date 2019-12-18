@@ -1,6 +1,6 @@
- rsa
+rsa
 pyaes
 requests
 asyncio
-pip unstall async_generator
+async_generator
 bs4
