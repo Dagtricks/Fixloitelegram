@@ -4,3 +4,5 @@ requests
 asyncio
 async_generator
 bs4
+colorama
+telethon
